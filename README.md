@@ -116,7 +116,6 @@
 
 ## 📊 GitHub Statistics
 
----
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsultan03&theme=tokyonight" alt="GitHub Streak" />
 </p>
