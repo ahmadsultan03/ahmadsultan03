@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! 👋 I'm Muhammad Ahmad Sultan
+  Hey! 👋 Muhammad Ahmad Sultan here
 </h1>
 
 <div align="center">
