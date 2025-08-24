@@ -2,10 +2,6 @@
   Hi there! 👋 I'm Muhammad Ahmad Sultan
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Full-Stack+Developer;Nascent+Entrepreneur;Engineering+E2E+Intelligence" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <img src="ahmadsultan03Profile.png" alt="Muhammad Ahmad Sultan" width="200" style="border-radius: 50%; border: 4px solid #2196F3;"/>
 </p>
