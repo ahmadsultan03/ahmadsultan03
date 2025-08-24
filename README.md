@@ -2,9 +2,9 @@
   Hi there! 👋 I'm Muhammad Ahmad Sultan
 </h1>
 
-<p align="center">
-  <img src="ahmadsultan03Profile.png" alt="Muhammad Ahmad Sultan" width="200" style="border-radius: 50%; border: 4px solid #2196F3;"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Full-Stack+Developer;Nascent+Entrepreneur;Engineering+E2E+Intelligence" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <em>Engineering E2E intelligent solutions that bridge the gap between AI and real-world applications</em>
@@ -20,8 +20,7 @@
 - 🎓 **Education:** Software Engineering @ NUST | CGPA: 3.88/4.0
 - 💼 **Current Role:** ML Engineer at Digital Perception (PVT.) LLP
 - 🧠 **Experience:** 4+ years in AI/ML engineering & scalable web applications
-- 💡 **Passion:** Building end-to-end intelligent solutions
-- 📱 **Contact:** +92 306 1611301
+- 💡 **Passion:** Building E2E intelligent solutions
 
 ---
 
@@ -121,20 +120,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsultan03&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-| 🎓 Certification | 🏛️ Institution | 🗓️ Year |
-|-------------------|-----------------|----------|
-| **Neo4j Certified Professional** | Neo4j GraphAcademy | 2025     |
-| **Machine Learning Specialization** | DeepLearning.AI (Coursera) | 2024     |
-| **Full-Stack Web Development** | Various Platforms | 2023     |
-| **Docker Containerization** | Code with Mosh | 2024     |
-
-</div>
 
 ---
 
