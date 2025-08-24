@@ -264,12 +264,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=ahmadsultan03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
-⭐ **I've contributed over **5 years** to community service while maintaining a **3.88 CGPA** and working professionally!
+⭐ I've contributed over **5 years** to community service while maintaining a **3.88 CGPA** and working professionally!
 
 </div>
 
 ---
-
-<p align="center">
-  <img src="ahmadsultan03-profile.png" alt="Muhammad Ahmad Sultan" width="200" style="border-radius: 50%; border: 4px solid #5E1924;"/>
-</p>
