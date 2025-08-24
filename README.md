@@ -121,20 +121,9 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadsultan03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsultan03&layout=compact&theme=tokyonight"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsultan03&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadsultan03&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadsultan03&theme=tokyonight)
 
 ---
 
@@ -148,12 +137,6 @@
 | **Machine Learning Specialization** | DeepLearning.AI (Coursera) | 2024     |
 | **Full-Stack Web Development** | Various Platforms | 2023     |
 | **Docker Containerization** | Code with Mosh | 2024     |
-
-### 🏅 Key Achievements
-- 🚀 **99.9% System Uptime** maintained across multiple enterprise applications
-- 📈 **60% reduction** in manual processing time through NLP automation
-- 🎯 **98% client satisfaction rate** with 100% project delivery success
-- 🏆 **Vice President** - Software Society, MCS Rawalpindi (2025-Present)
 
 </div>
 
@@ -266,6 +249,16 @@
 
 ⭐ I've contributed over **5 years** to community service while maintaining a **3.88 CGPA** and working professionally!
 
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
 </div>
 
 ---
