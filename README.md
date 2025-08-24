@@ -122,9 +122,9 @@
 ## 📊 GitHub Statistics
 
 ---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadsultan03&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsultan03&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🏆 Certifications & Achievements
@@ -179,7 +179,7 @@
 
 ## 🌟 Leadership & Community
 
-<div align="center">
+<div>
 
 ### 👨‍💼 Leadership Roles
 - **Vice President** - Software Society, MCS Rawalpindi (2025-Present)
@@ -243,7 +243,7 @@
 
 <div align="center">
   
-### 🚀 *"Engineering E2E Intelligence - One Solution at a Time"*
+### *"Engineering E2E Intelligence - One Solution at a Time"*
 
 <img src="https://komarev.com/ghpvc/?username=ahmadsultan03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
